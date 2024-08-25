@@ -1,6 +1,14 @@
 
 # All-LangChain-Main
 
+
+![langch](https://github.com/user-attachments/assets/636b0a70-6e15-4336-846f-7ef33259c9ae)
+![groq](https://github.com/user-attachments/assets/fbd4db6d-e50d-4c1e-8d14-cb62be8b8b83)
+![Screenshot 2024-08-25 at 5 42 22 PM](https://github.com/user-attachments/assets/b2d24203-e1da-4d11-bec4-96f46702c04a)
+
+
+
+
 ### Overview
 This repository provides an end-to-end implementation of various LangChain modules integrated with advanced AI technologies, including GROQ and Retrieval-Augmented Generation (RAG). Each module demonstrates practical applications and integration patterns for building robust and scalable AI solutions.
 
